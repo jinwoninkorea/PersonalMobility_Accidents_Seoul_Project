@@ -1,1 +1,1 @@
-# Seoul-Slope-for-PM-Accidents-Project
+# 서울시 PM 사고 공간 요인 분석을 통한 위험요인 진단 및 위험 수치 지도 제작
